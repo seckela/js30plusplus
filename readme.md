@@ -41,7 +41,7 @@ This is a group of added chalenges to [Wes Bos'](https://github.com/wesbos) chal
 
 ## Day 11 - Custom Video Player
 * Pause video at the 13 minute mark and use what you’ve learned so far to build some additional functionality.
- * Use this resource to help you understand video events: https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Media_events
+    * Use this resource to help you understand video events: https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Media_events
 * Do the challenge Wes outlines (making the fullscreen work).
 
 ## Day 12 - Key Sequence Detection
