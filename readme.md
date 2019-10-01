@@ -18,7 +18,7 @@ This is a group of added chalenges to [Wes Bos'](https://github.com/wesbos) chal
 * No additional challenges
 
 ## Day 04 - Array Cardio Day 1
-* Pause after challenge 3 and attempt to complete the rest of the challenges from what you’ve learned. Proceed after you solve or get stumped on each one.
+* Pause after challenge 4 and attempt to complete the rest of the challenges from what you’ve learned. Proceed after you solve or get stumped on each one.
 
 ## Day 05 - Flex Panel Gallery
 * No added challenges
