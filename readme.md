@@ -24,7 +24,9 @@ This is a group of added chalenges to [Wes Bos'](https://github.com/wesbos) chal
 * No added challenges
 
 ## Day 06 - Type Ahead
-* Make the match highlighting respect the capitalization in the origin word.
+* Ensure that the highlighted search term maintains the original capitalization regardless of the search term.
+* Report if there are no matches in a clean way.
+* Return the original state if the search box is empty.
 
 ## Day 07 - Array Cardio Day 2
 * Similar to Day 04 - Attempt all challenges using only the inline comments as guidance. Unpause as needed and repeat for every challenge.
