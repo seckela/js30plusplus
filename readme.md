@@ -15,7 +15,8 @@ This is a group of added chalenges to [Wes Bos'](https://github.com/wesbos) chal
 * Fix the skipping animation for when a new cycle starts
 
 ## Day 03 - CSS Variables
-* No additional challenges
+* Create an additional control using the previous controls as an example
+* Ideas for new controls: [W3Schools - CSS Styling Images](https://www.w3schools.com/css/css3_images.asp)
 
 ## Day 04 - Array Cardio Day 1
 * Pause after challenge 4 and attempt to complete the rest of the challenges from what you’ve learned. Proceed after you solve or get stumped on each one.
