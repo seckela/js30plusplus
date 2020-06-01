@@ -25,7 +25,6 @@ This is a group of added chalenges to [Wes Bos'](https://github.com/wesbos) chal
 * No added challenges
 
 ## Day 06 - Type Ahead
-* Ensure that the highlighted search term maintains the original capitalization regardless of the search term.
 * Report if there are no matches in a clean way.
 * Return the original state if the search box is empty.
 
@@ -35,6 +34,7 @@ This is a group of added chalenges to [Wes Bos'](https://github.com/wesbos) chal
 ## Day 08 - Fun with HTML5 Canvas
  
 * Pause at about the 13 minute mark and attempt to mimic his drawing mode (line width only).
+* Create a new tool that will act like an eraser. Consider binding this to right click.
 
 ## Day 09 - Dev Tools Domination
 * No added challenges.
