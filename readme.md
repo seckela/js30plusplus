@@ -40,7 +40,8 @@ This is a group of added chalenges to [Wes Bos'](https://github.com/wesbos) chal
 * No added challenges.
 
 ## Day 10 - Hold Shift and Check Checkboxes
-* Not really an additional challenge, but try and approach this like Wes says before he gives you instructions.
+* Make the multiple selections work for unselecting too
+* Attempt to complete with minimal use of the walkthrough
 
 ## Day 11 - Custom Video Player
 * Pause video at the 13 minute mark and use what you’ve learned so far to build some additional functionality.
