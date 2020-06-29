@@ -50,6 +50,7 @@ This is a group of added chalenges to [Wes Bos'](https://github.com/wesbos) chal
 
 ## Day 12 - Key Sequence Detection
 * Add a custom functionality when your code is added.
+* Rewrite the comparitor to use `pressed` in it's array form instead of converting it to a string.
 
 ## Day 13 - Slide in on Scroll
 * No additional challenges
